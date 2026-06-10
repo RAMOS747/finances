@@ -1,6 +1,7 @@
 <?php
 $allowed = [
-    'https://software-1.vercel.app',
+    'https://finances-7.vercel.app',  //  dominio nuevo, mas coherente de acuerdo al proyecto,
+    'https://software-1.vercel.app',  // dominio viejo funcionaba bien
     'http://localhost:5173'
 ];
 
